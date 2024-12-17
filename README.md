@@ -31,8 +31,8 @@ The analysis will explore correlations between various attributes using scatterp
 
 ## Conclusion
 
-This project aims to provide a foundation for understanding the factors that contribute to the success of films. By examining the IMDb Top 250 dataset, I hope to uncover valuable insights that can inform future research in the field of film studies.
+This project aims to provide a foundation for understanding the factors that contribute to the success of films. By examining the IMDb Top 250 dataset, I hope to uncover valuable insights that can help to inform others about what qualities generate the best movies.
 
 ## Instructions
 
-The Python notebook for this project should be run in order, starting with `01` and proceeding sequentially through `02`, `03`, etc.
+The Python notebooks for this project should be run in order, starting with `01` and proceeding sequentially through `02` and then `03`.
