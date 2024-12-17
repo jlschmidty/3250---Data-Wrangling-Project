@@ -35,4 +35,4 @@ This project aims to provide a foundation for understanding the factors that con
 
 ## Instructions
 
-The Python notebooks for this project should be run in order, starting with `01` and proceeding sequentially through `02` and then `03`.
+The Python notebooks for this project should be run in order, starting with `00` and proceeding sequentially through `01` and then `02`.
